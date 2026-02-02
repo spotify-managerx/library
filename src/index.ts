@@ -1,1 +1,3 @@
-console.log("Hello via Bun!");
+import {SpotifyPatcher} from "./classes"
+
+export default SpotifyPatcher;
