@@ -1,5 +1,7 @@
 # spotify-managerx-library
 
+Spotify patch utillities build using the [spicetify](https://github.com/spicetify) implementation
+
 To install dependencies:
 
 ```bash
